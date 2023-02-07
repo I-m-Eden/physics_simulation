@@ -17,4 +17,4 @@ This is a physics simulation website written by Eden.
 
   [3]: Maxwell_2D/physics.html
 
-  [3]: Maxwell_3D/physics.html
+  [4]: Maxwell_3D/physics.html
