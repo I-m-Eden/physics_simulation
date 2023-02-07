@@ -6,6 +6,8 @@ This is a physics simulation website written by Eden.
 
 [Maxwell_2D][3]
 
+[Maxwell_3D][4]
+
 
   [1]: planet_movement/physics.html
 
@@ -14,3 +16,5 @@ This is a physics simulation website written by Eden.
 
 
   [3]: Maxwell_2D/physics.html
+
+  [3]: Maxwell_3D/physics.html
